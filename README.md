@@ -19,3 +19,35 @@ This automation listens for incoming customer queries, uses AI to analyze them, 
 
 ## Real-world use case
 Businesses can use this to instantly respond to customer support queries, reducing response time and ensuring no query goes unanswered.
+
+## Demo
+
+**1. Customer query received (input)**
+
+
+
+![Input](Screenshot_20261102_123425.jpg)
+
+
+
+**2. AI analysis: category, urgency and suggested reply**
+
+
+
+![AI output](Screenshot_2026_1102_123645.jpg)
+
+
+
+**3. Successful end-to-end run**
+
+
+
+![Run](Screenshot_20261102_123357.jpg)
+
+
+
+**4. Final email received by the customer**
+
+
+
+![Email](Screenshot_20261029_152943.jpg)
